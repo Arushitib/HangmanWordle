@@ -21,3 +21,6 @@ We learnt that it's okay to not be able to reach all the right answers in time, 
 
 ## What's next for Hangman-Wordle
 Successfully create a GUI interface for the game and maybe turn it into a website so that it's more easily accessible for more people to play.
+
+Made by:
+Arushi Tibrewal & Valerie Chang
